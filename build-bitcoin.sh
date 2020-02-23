@@ -2,14 +2,15 @@ sudo add-apt-repository universe
 sudo apt-get update
 
 # build requirements
-sudo apt-get install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3
+sudo apt-get install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3 -y
 
 # dependencies
-sudo apt-get install libevent-dev libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev
+sudo apt-get install libevent-dev libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev -y
 
 # download bitcoin
+cd /home/ubuntu
 git clone https://github.com/bitcoin/bitcoin.git
-cd bitcoin
+cd /home/ubuntu/bitcoin
 
 # BerkeleyDB
 ./contrib/install_db4.sh `pwd`
