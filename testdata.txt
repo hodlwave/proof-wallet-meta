@@ -1,0 +1,70 @@
+# create wallet input
+y
+y
+y
+y
+y
+y
+1111111111 2222222222 3333333333 4444444444 5555555555 6666666666 1111111111 2222222222 3333333333 4444444444
+f434 4222 9974 6a20 484c 46a1 1e2b 40f9 106e 175f 80ae 8203 6aa1 5f67 7fb9 d7f7
+
+# create wallet output
+BIP39 Mnemonic Phrase: 
+1. reform
+2. amused
+3. sunset
+4. recycle
+5. twin
+6. clip
+7. shrug
+8. mystery
+9. liberty
+10. runway
+11. fit
+12. atom
+13. hurdle
+14. word
+15. drift
+16. patch
+17. size
+18. festival
+19. clog
+20. depart
+21. wisdom
+22. bullet
+23. stand
+24. saddle
+
+xpub:
+tpubD6NzVbkrYhZ4YFZzA2HtioYGiVAb98BiJ9LYeayD7EXbv1yGkmTHUNHkVUZGXbA3x4Su3RrVxLprMvrCZceMM6qgU3SrQw626gJmTQeGDcb
+
+electrum mnemonic: naive wheel fabric cactus carpet angle true cattle mosquito razor nest rabbit hair select interest tourist cancel vapor squeeze sugar muscle rack flower april
+electrum xpub: tpubD6NzVbkrYhZ4X217qTEkKVaUdD1AGrUwL8VHV5qkLtr4kEUZCB1ELtvDYxDUhfnuZEyQnucaT4Zk7ZFd2tRrr31Fh8x8QQZmeKQSYSVdmEi
+
+Vpubs:
+Vpub5dEvVGKn7251yCbQfD9PXUPufwescagUGYWDV1GNckApWvkJP3DJ3So35DAzjnkjBXGsYxuhsrR6my9eVruYWcJRjKvNxTjZQdxcbC7qFFx
+Vpub5dEvVGKn7251zSAGynCXvnMhmDpJUrPFEZMUeWPqP5rMgiF1wdfMAvAa1jWnZi7saLkMoV9dP8gD2LkE2b831g8rWER6xzForzrwWC8VDPf
+
+# view addresses input
+y
+y
+y
+y
+y
+y
+reform amused sunset recycle twin clip shrug mystery liberty runway fit atom hurdle word drift patch size festival clog depart wisdom bullet stand saddle
+tpubD6NzVbkrYhZ4YFZzA2HtioYGiVAb98BiJ9LYeayD7EXbv1yGkmTHUNHkVUZGXbA3x4Su3RrVxLprMvrCZceMM6qgU3SrQw626gJmTQeGDcb
+tpubD6NzVbkrYhZ4X217qTEkKVaUdD1AGrUwL8VHV5qkLtr4kEUZCB1ELtvDYxDUhfnuZEyQnucaT4Zk7ZFd2tRrr31Fh8x8QQZmeKQSYSVdmEi
+
+# sign psbt input
+y
+y
+y
+y
+y
+y
+reform amused sunset recycle twin clip shrug mystery liberty runway fit atom hurdle word drift patch size festival clog depart wisdom bullet stand saddle
+tpubD6NzVbkrYhZ4YFZzA2HtioYGiVAb98BiJ9LYeayD7EXbv1yGkmTHUNHkVUZGXbA3x4Su3RrVxLprMvrCZceMM6qgU3SrQw626gJmTQeGDcb
+tpubD6NzVbkrYhZ4X217qTEkKVaUdD1AGrUwL8VHV5qkLtr4kEUZCB1ELtvDYxDUhfnuZEyQnucaT4Zk7ZFd2tRrr31Fh8x8QQZmeKQSYSVdmEi
+cHNidP8BAIACAAAAAW33lcuH36AKGNmS1/NYQPFchqbLJJSymOpfkstEkd+aAAAAAAD9////AuCTBAAAAAAAGXapFPv/lbTjWsqRjSbhVzkuoWQ6LcKDiKyorQoAAAAAACIAIBOPSHXPtFbOGMnA1vHQtgRsvfqJ9SjKUJCtxz3PgNwcfm0ZAAABAStAQg8AAAAAACIAIGQ/skS+FCJTVWDm23/0zWO3K6qDJEnNWHGLoTOoGi5sAQVHUiECQHz7GmZFDduchIbPxGwBDgb7Gn8X5bHQQ9vX+UcQh+khA+Btu2C59tZ4ePhc7j8vSWdWZCt/KLIyVpox93EzIzOUUq4iBgJAfPsaZkUN25yEhs/EbAEOBvsafxflsdBD29f5RxCH6QxloeRGAAAAAAAAAAAiBgPgbbtgufbWeHj4XO4/L0lnVmQrfyiyMlaaMfdxMyMzlAyFuTmsAAAAAAAAAAAAAAEBR1IhAiHfSeUEBXX6PAIVi3mnnU9NGVvex0EnXP/E4X7LFIchIQLVp/v4egEbhxFUxo5aBm13oewX8zq4yqPVWIpTFY/hL1KuIgICId9J5QQFdfo8AhWLeaedT00ZW97HQSdc/8ThfssUhyEMZaHkRgEAAAAAAAAAIgIC1af7+HoBG4cRVMaOWgZtd6HsF/M6uMqj1ViKUxWP4S8Mhbk5rAEAAAAAAAAAAA==
+SIGN
